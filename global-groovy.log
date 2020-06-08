@@ -178,3 +178,93 @@
 2020-06-08 11:38:22,705 INFO  [log] 963
 2020-06-08 11:38:28,244 INFO  [log] Status: FINISHED, timetaken: 23667 ms
 2020-06-08 11:38:28,252 INFO  [log] Number of test steps executed: 4
+2020-06-08 21:31:30,404 INFO  [log] Execute before the Test Suite run
+2020-06-08 21:31:30,421 INFO  [log] Run this step
+2020-06-08 21:31:32,870 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:def="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <soap:Header/>
+   <soap:Body>
+      <def:customerCustomerRepositoryV1SaveRequest>
+         <customer>
+         <email>Archana1@gmail.com</email>
+                  <firstname>Archana</firstname>
+                  <lastname>M</lastname>
+                  <dob>1994-05-19</dob>
+                  <addresses>
+                     <item>
+                        <region>
+                           <regionCode>KA</regionCode>
+                           <region>Karnataka</region>
+                        </region>
+                        <countryId>IN</countryId>
+                        <street>
+                           <item>#55, 1 st Main Road</item>
+                        </street>
+                        <telephone>+91 9876543210</telephone>
+                        <postcode>560023</postcode>
+                        <city>Bengaluru</city>
+                        <firstname>meenu</firstname>
+                        <lastname>Kannan</lastname>
+                        <defaultShipping>true</defaultShipping>
+                        <defaultBilling>true</defaultBilling>
+                     </item>
+                  </addresses>
+            </customer>
+         </def:customerCustomerRepositoryV1SaveRequest>
+
+   </soap:Body>
+</soap:Envelope>
+2020-06-08 21:31:41,870 INFO  [log] Run this step
+2020-06-08 21:31:43,519 INFO  [log] 1991
+2020-06-08 21:31:43,525 INFO  [log] 2506
+2020-06-08 21:31:46,720 INFO  [log] Run this test step
+2020-06-08 21:31:49,993 INFO  [log] SKU00502547.7
+2020-06-08 21:31:53,500 INFO  [log] HI
+2020-06-08 21:31:54,765 INFO  [log] user279.0@gmail.com
+2020-06-08 21:31:56,088 INFO  [log] SKU00207215.9
+2020-06-08 21:31:57,618 INFO  [log] 1007
+2020-06-08 21:32:04,897 INFO  [log] Execute before the Test Suite run
+2020-06-08 21:32:04,902 INFO  [log] Run this step
+2020-06-08 21:32:06,178 INFO  [log] <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:def="http://soap.upskills.in/soap/default?services=customerCustomerRepositoryV1">
+   <soap:Header/>
+   <soap:Body>
+      <def:customerCustomerRepositoryV1SaveRequest>
+         <customer>
+         <email>Archana1@gmail.com</email>
+                  <firstname>Archana</firstname>
+                  <lastname>M</lastname>
+                  <dob>1994-05-19</dob>
+                  <addresses>
+                     <item>
+                        <region>
+                           <regionCode>KA</regionCode>
+                           <region>Karnataka</region>
+                        </region>
+                        <countryId>IN</countryId>
+                        <street>
+                           <item>#55, 1 st Main Road</item>
+                        </street>
+                        <telephone>+91 9876543210</telephone>
+                        <postcode>560023</postcode>
+                        <city>Bengaluru</city>
+                        <firstname>meenu</firstname>
+                        <lastname>Kannan</lastname>
+                        <defaultShipping>true</defaultShipping>
+                        <defaultBilling>true</defaultBilling>
+                     </item>
+                  </addresses>
+            </customer>
+         </def:customerCustomerRepositoryV1SaveRequest>
+
+   </soap:Body>
+</soap:Envelope>
+2020-06-08 21:32:12,217 INFO  [log] Run this step
+2020-06-08 21:32:13,480 INFO  [log] 1994
+2020-06-08 21:32:13,485 INFO  [log] 2509
+2020-06-08 21:32:16,462 INFO  [log] Run this test step
+2020-06-08 21:32:18,678 INFO  [log] SKU00502468.2
+2020-06-08 21:32:22,515 INFO  [log] HI
+2020-06-08 21:32:23,689 INFO  [log] user650.3@gmail.com
+2020-06-08 21:32:25,225 INFO  [log] SKU00207947.2
+2020-06-08 21:32:26,248 INFO  [log] 1008
+2020-06-08 21:32:32,795 INFO  [log] Status: FINISHED, timetaken: 27591 ms
+2020-06-08 21:32:32,830 INFO  [log] Number of test steps executed: 4
